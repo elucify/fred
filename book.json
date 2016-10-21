@@ -1,0 +1,10 @@
+{
+    "plugins": [
+      "theme-ncbi@git+https://github.com/klortho/theme-ncbi.git#ec3340c29"
+    ],
+    "//pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        }
+    }
+}
