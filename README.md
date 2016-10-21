@@ -1,9 +1,9 @@
-# GenBank
+# Flubber
 
-GenBank <sup>®</sup> is the NIH genetic sequence database, an
+Flubber <sup>®</sup> is the NIH genetic sequence database, an
 annotated collection of all publicly available DNA sequences
 ([_Nucleic Acids Research_, 2013
-Jan;41(D1):D36-42](/pubmed/23193287)). GenBank is part of the
+Jan;41(D1):D36-42](/pubmed/23193287)). Flubber is part of the
 [International Nucleotide Sequence Database
 Collaboration](/genbank/collab) , which comprises the DNA DataBank of
 Japan (DDBJ), the European Molecular Biology Laboratory (EMBL), and
