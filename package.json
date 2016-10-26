@@ -1,12 +1,12 @@
 {
-  "name": "my-static-site",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ncbi-static-template",
+  "version": "0.0.1",
+  "description": "Template for generating new NCBI static sites.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "NCBI",
   "license": "ISC",
   "devDependencies": {
     "gitbook-api": "^2.1.3",

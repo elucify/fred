@@ -1,22 +1,10 @@
-# Flubber
+# NCBI Static Site (template)
 
-Flubber <sup>®</sup> is the NIH genetic sequence database, an
-annotated collection of all publicly available DNA sequences
-([_Nucleic Acids Research_, 2013
-Jan;41(D1):D36-42](/pubmed/23193287)). Flubber is part of the
-[International Nucleotide Sequence Database
-Collaboration](/genbank/collab) , which comprises the DNA DataBank of
-Japan (DDBJ), the European Molecular Biology Laboratory (EMBL), and
-GenBank at NCBI. These three organizations exchange data daily.
+Replace this content with your own....
 
-* Test prose.io editing in GitHub.
+This text is from [the 
+template](https://github.com/Klortho/ncbi-static-template) used to 
+create new NCBI static sites.
 
-The complete [release notes](ftp://ftp.ncbi.nih.gov/genbank/gbrel.txt)
-for the current version of GenBank are available on the NCBI ftp site.
-A new release is made every two months. Each release includes [growth
-statistics](/genbank/statistics) for both the traditional GenBank and
-WGS divisions.
-
-An [annotated sample GenBank record](/genbank/samplerecord/) for a
-_Saccharomyces cerevisiae_ gene demonstrates many of the features of
-the GenBank flat file format.
+See the [GitBook theme-ncbi README](https://github.com/Klortho/theme-ncbi/blob/master/README.md)
+for step-by-step instructions on how to use it.

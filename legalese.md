@@ -1,4 +1,9 @@
 # Legal stuff
+
+
+***FIXME: replace this with NCBI public domain notice***
+
+
 ## Confidentiality
 
 Some authors are concerned that the appearance of their data in
