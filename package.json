@@ -1,7 +1,7 @@
 {
-  "name": "ncbi-static-template",
+  "name": "fred",
   "version": "0.0.1",
-  "description": "Template for generating new NCBI static sites.",
+  "description": "Wilma!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
